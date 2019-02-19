@@ -1,0 +1,22 @@
+body{
+	border:20px solid #bdc3c7;
+	margin:10px 50px 10px 50px ;
+	padding: 20px;
+	max-width: 700px;
+	width:80%;
+	margin: 20px auto;
+}
+.z{
+	letter-spacing: 1px;
+}
+h2{
+	color:#2c3e50;
+
+}
+.y{
+	border-left: 5px solid #bdc3c7; 
+}
+.x{
+	border-bottom: 1px solid #bdc3c7;
+	padding-bottom: 20px;
+}
